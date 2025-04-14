@@ -7,8 +7,7 @@ If you use these data, please cite my paper as the data source.
 | Variable       | Description                        |
 | -------------- | ---------------------------------- |
 | gvkey          | Compustat GVKEY                    |
-| year           | Year                               |
-| month          | Month                              |
+| datadate       | Date                               |
 | patent_q       | Patent q                           |
 | patent_capital | Replacement cost of patent capital |
 
